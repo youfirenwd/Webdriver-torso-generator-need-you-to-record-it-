@@ -1,0 +1,13 @@
+-- WEBDRIVER TORSO custom --
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: white;
+  
+  canvas {
+    display: block;  
+      }
+}
